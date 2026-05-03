@@ -51,10 +51,4 @@ Artificial Intelligence
 Open Source Projects
 ```
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/khaoula-eng/khaoula-eng/output/snake.svg" alt="Snake animation" />
-
-###
