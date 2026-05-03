@@ -51,10 +51,6 @@ Artificial Intelligence
 Open Source Projects
 ```
 
----
-
----
-
 <div align="center">
 
 ## My Contribution Snake 🐍
