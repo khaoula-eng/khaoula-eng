@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is I name is Khaoula EL HAFDAOUI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Khaoula!
 ======================================================================================================================================================
 
-Computer science engineer | Data and AI enthousiaste
+Computer science engineer sharing my journy and learning in tech
 ----------------------------------------------------
 
 * 🌍  I'm based in Morocco
