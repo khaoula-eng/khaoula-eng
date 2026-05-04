@@ -14,7 +14,6 @@ I'm **Khaoula**,I share my journey, projects, and learning experiences in tech.
 
 I’m passionate about building useful, clean, and intelligent solutions using **Machine Learning**, **Data Science**, and **Software Development**.
 
-- 🌍 Based in **Morocco**
 - ✉️ Contact me: **kelhafdaoui@gmail.com**
 - 👥 Open to collaborate on **Machine Learning, object tracking/detection, and data projects**
 - 🚀 Always learning and improving my skills in tech
