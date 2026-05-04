@@ -10,8 +10,7 @@
 
 ## About Me
 
-I'm **Khaoula**, a Computer Science Engineer based in **Morocco**.  
-I share my journey, projects, and learning experiences in tech.
+I'm **Khaoula**,I share my journey, projects, and learning experiences in tech.
 
 I’m passionate about building useful, clean, and intelligent solutions using **Machine Learning**, **Data Science**, and **Software Development**.
 
