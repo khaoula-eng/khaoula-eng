@@ -45,7 +45,7 @@ Object Tracking
 Data Analysis
 Backend Development
 Web Development
+Data engineering
 Artificial Intelligence
-Open Source Projects
 ```
 
