@@ -39,13 +39,11 @@ I’m passionate about building useful, clean, and intelligent solutions using *
 ## What I’m Interested In
 
 ```txt
-Machine Learning
+Data Analysis
+Build piplines e
+ETL 
+Artificial Intelligence
 Object Detection
 Object Tracking
-Data Analysis
-Backend Development
-Web Development
-Data engineering
-Artificial Intelligence
 ```
 
