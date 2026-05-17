@@ -40,7 +40,7 @@ I’m passionate about building useful, clean, and intelligent solutions using *
 
 ```txt
 Data Analysis
-Build piplines e
+Build piplines 
 ETL 
 Artificial Intelligence
 Object Detection
