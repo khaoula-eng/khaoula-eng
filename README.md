@@ -1,8 +1,8 @@
 # Hi, I'm Khaoula 👋
 
-### Computer Science Engineer | Full stack Data Analyst | Cloud & AI Enthusiast
+### Computer Science Engineer | Junior Data Analyst & Data Engineer | Cloud & AI  Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Machine+Learning+%26+Data+Projects;Object+Tracking+%26+Detection;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+Engineering+%26+Data+Projects;Machine+Learning+%26+Object+Tracking;Always+learning%2C+always+building" alt="Typing SVG" />
 
 </div>
 
@@ -12,10 +12,10 @@
 
 I'm **Khaoula**,I share my journey, projects, and learning experiences in tech.
 
-I’m passionate about building useful, clean, and intelligent solutions using **Machine Learning**, **Data Science**, and **Software Development**.
+I’m passionate about transforming data into clean, scalable, and intelligent solutions using **Data Analytics**, **Data Engineering**, **Cloud Technologies**, and **AI**. 
 
-- ✉️ Contact me: **kelhafdaoui@gmail.com**
-- 👥 Open to collaborate on **Machine Learning, object tracking/detection, and data projects**
+- ✉️ Contact me: **elhafdaouikhaoula2@gmail.com**
+- 👥 Open to collaborate on **Data Analytics ,Data pipeline, Machine Learning, object tracking/detection, and data projects**
 - 🚀 Always learning and improving my skills in tech
 
 ---
