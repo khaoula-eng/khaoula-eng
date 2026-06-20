@@ -24,17 +24,46 @@ I’m passionate about transforming data into clean, scalable, and intelligent s
 
 <div align="center">
 
+<!-- Programming, development and cloud tools -->
+
 <img src="https://skillicons.dev/icons?i=python,r,java,git,vscode,html,css,mysql,postgres,figma,azure,wordpress,arduino,ubuntu,django,laravel,pytorch,tensorflow" />
 
 <br><br>
 
+<!-- Data and AI -->
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Data-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br><br>
+
+<!-- Big Data tools -->
+
+<img src="https://img.shields.io/badge/Hadoop%20HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache%20HBase-DC382D?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+<br><br>
+
+<!-- Data engineering concepts -->
+
+<img src="https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Warehouses-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Lakes-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br><br>
+
+<!-- Azure data ecosystem -->
+
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 
 </div>
 
----
 
 ## What I’m Interested In
 
