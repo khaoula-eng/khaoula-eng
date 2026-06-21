@@ -12,7 +12,7 @@
 
 I'm **Khaoula**,I share my journey, projects, and learning experiences in tech.
 
-I’m passionate about transforming data into clean, scalable, and intelligent solutions using **Data Analytics**, **Data Engineering**, **Cloud Technologies**, and **AI**. 
+Hi 👋, I’m Khaoula, a Computer Science Engineer passionate about Data Engineering, Cloud Technologies, Data Science, and Artificial Intelligence.
 
 - ✉️ Contact me: **elhafdaouikhaoula2@gmail.com**
 - 👥 Open to collaborate on **Data Analytics ,Data pipeline, Machine Learning, object tracking/detection, and data projects**
