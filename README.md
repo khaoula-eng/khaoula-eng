@@ -68,11 +68,12 @@ Hi 👋, I’m Khaoula, a Computer Science Engineer passionate about Data Engine
 ## What I’m Interested In
 
 ```txt
-Data Analysis
-Build piplines 
-ETL 
+Data Engineering
+Data Pipeline Development
+ETL Processes
+Cloud Technologies
+Data Analysis and Data Science
 Artificial Intelligence
-Object Detection
-Object Tracking
+Object Detection and Tracking
 ```
 
