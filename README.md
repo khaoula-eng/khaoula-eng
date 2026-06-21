@@ -1,6 +1,6 @@
 # Hi, I'm Khaoula 👋
 
-### Computer Science Engineer | Data Engineer & Cloud & | Data Scientist and AI  Enthusiast
+### Computer Science Engineer | Data Engineer & Cloud | Data Scientist and AI  Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Data+Engineering+%26+Data+Projects;Machine+Learning+%26+Object+Tracking;Always+learning%2C+always+building" alt="Typing SVG" />
 
