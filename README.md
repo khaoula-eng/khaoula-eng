@@ -14,8 +14,8 @@ I'm **Khaoula**,I share my journey, projects, and learning experiences in tech.
 
 Hi 👋, I’m Khaoula, a Computer Science Engineer passionate about Data Engineering, Cloud Technologies, Data Science, and Artificial Intelligence.
 
-- ✉️ Contact me: **elhafdaouikhaoula2@gmail.com**
-- 👥 Open to collaborate on **Data Analytics ,Data pipeline, Machine Learning, object tracking/detection, and data projects**
+- ✉️ Contact me: **elhafdaouikhaoula7@gmail.com**
+- 👥 Open to collaborating on **Data Engineering, Data Analytics, Data Pipelines, ETL, Cloud, Machine Learning, Object Detection, Object Tracking, and AI projects.**
 - 🚀 Always learning and improving my skills in tech
 
 ---
