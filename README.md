@@ -7,14 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E74B5&center=true&vCenter=true&width=600&lines=Junior+Data+Engineer;Azure+%7C+PySpark+%7C+ETL%2FELT+Pipelines;Turning+raw+data+into+reliable+pipelines" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elhafdaouikhaoula7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Morocco-informational?style=flat" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:elhafdaouikhaoula7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Location-Morocco-informational?style=flat" />
 </p>
 
 </div>
