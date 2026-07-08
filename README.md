@@ -36,13 +36,13 @@ Engineer opportunities.
 <table>
 <tr>
 <td width="33%" valign="top">
-<h4>🌤️ Azure ELT Pipeline</h4>
+<h4>🏅 Tokyo Olympic Data Pipeline on Azure</h4>
 
-End-to-end ELT pipeline with medallion architecture (Bronze/Silver/Gold), ingesting real weather API data, transformed with PySpark, served through a Synapse-style SQL layer.
+End-to-end Big Data pipeline on real Azure infrastructure: HTTP ingestion via Azure Data Factory, PySpark transformation on Databricks, data warehousing in Synapse Analytics, and dashboards in Power BI / Tableau.
 
-`Azure Data Factory` `Databricks` `PySpark` `Synapse` `Power BI`
+`Azure Data Factory` `Azure Storage (ADLS Gen2)` `Databricks` `Synapse Analytics` `Tableau`
 
-**[→ View repo](https://github.com/khaoula-eng/project1-azure-elt-pipeline)**
+**[→ View repo](https://github.com/khaoula-eng/tokyo-olympic-data-azure-engineering-project)**
 
 </td>
 <td width="33%" valign="top">
