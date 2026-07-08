@@ -105,13 +105,18 @@ Star-schema data warehouse with an interactive Streamlit dashboard: KPIs, filter
 
 ---
 
-### 🎓 Certifications
+<h3>🎓 Certifications</h3>
+
+<div align="left">
+
 - Machine Learning with Apache Spark — IBM
 - Python Project for Data Engineering — IBM
 - Data Analysis and Visualization with Power BI — Microsoft
 - The Power of Statistics — Google
 - Agile Project Management — Google
 - Prompt Engineering for Everyone — CodeSignal
+
+</div>
 
 ---
 
