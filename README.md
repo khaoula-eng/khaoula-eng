@@ -40,26 +40,26 @@ End-to-end Big Data pipeline on real Azure infrastructure: HTTP ingestion via Az
 
 </td>
 <td width="33%" valign="top">
-<!-- <h4>📦 Big Data Batch Pipeline</h4>
+ <h4> Industrial-IoT-Pipeline_Structured-Unstructured-Big-Data</h4>
 
-    Batch pipeline processing 1M+ synthetic records with real data quality issues (duplicates, nulls, inconsistent formats), partitioned for performance at scale.
+  Batch pipeline processing 1M+ synthetic records with real data quality issues (duplicates, nulls, inconsistent formats), partitioned for performance at scale.
+    
+  `PySpark` `Delta Lake` `Data Quality` `Partitioning`
 
-`PySpark` `Delta Lake` `Data Quality` `Partitioning`
+   **[→ View repo](https://github.com/khaoula-eng/project2-bigdata-batch-pipeline)**
 
-    **[→ View repo](https://github.com/khaoula-eng/project2-bigdata-batch-pipeline)**
+  </td>
+<td width="33%" valign="top">
+   <!-- <h4>📊 Data Warehouse & Dashboard</h4> 
 
-    </td>
-     <td width="33%" valign="top">
-    <h4>📊 Data Warehouse & Dashboard</h4> -->
+    Star-schema data warehouse with an interactive Streamlit dashboard: KPIs, filters, and live charts on top of a dimensional model.
 
-Star-schema data warehouse with an interactive Streamlit dashboard: KPIs, filters, and live charts on top of a dimensional model.
+      `SQL` `Star Schema` `Streamlit` `Plotly`
 
-`SQL` `Star Schema` `Streamlit` `Plotly`
+      **[→ View repo](https://github.com/khaoula-eng/project3-data-warehouse-dashboard)** · **[🔗 Live demo](#)**
 
-**[→ View repo](https://github.com/khaoula-eng/project3-data-warehouse-dashboard)** · **[🔗 Live demo](#)**
-
-</td>
-</tr>
+      </td>
+      </tr> -->
 </table>
 
 > 📌 More projects (data analysis, AI experiments) are available on my
