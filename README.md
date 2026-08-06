@@ -19,9 +19,7 @@
 
 Junior Data Engineer with hands-on experience building end-to-end Big
 Data pipelines and deploying digital tools in industrial environments. Skilled in Python, SQL, PySpark, and the
-Azure data stack (Data Factory, Databricks, Synapse). Currently
-pursuing a PhD at ENSIAS while actively seeking full-time Data
-Engineer opportunities.
+Azure data stack (Data Factory, Databricks, Synapse).
 
 ---
 
