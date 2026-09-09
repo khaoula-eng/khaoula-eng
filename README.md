@@ -53,7 +53,7 @@ Batch pipeline processing 1M+ synthetic records with real data quality issues (d
 
   `SQL` `Star Schema` `Streamlit` `Plotly`
 
- **[→ View repo](https://github.com/khaoula-eng/project3-data-warehouse-dashboard)** · **[🔗 Live demo](#)**
+<!--  **[→ View repo](https://github.com/khaoula-eng/project3-data-warehouse-dashboard)** · **[🔗 Live demo](#)** */ -->
 
   </td>
       </tr>
