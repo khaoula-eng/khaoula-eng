@@ -23,7 +23,7 @@ Azure data stack (Data Factory, Databricks, Synapse).
 
 ---
 
-### 🚀 Featured Projects
+<!--### 🚀 Featured Projects
 
 <table>
 <tr>
