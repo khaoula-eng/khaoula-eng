@@ -46,8 +46,8 @@ Batch pipeline processing 1M+ synthetic records with real data quality issues (d
 **[→ View repo](https://github.com/khaoula-eng/Industrial-IoT-Pipeline_Structured-Unstructured-Big-Data)**
 
   </td>
-<td width="33%" valign="top">
-<!--  <h4>📊 Data Warehouse & Dashboard</h4> 
+<!--<td width="33%" valign="top">
+  <h4>📊 Data Warehouse & Dashboard</h4> 
 
  <!--  Star-schema data warehouse with an interactive Streamlit dashboard: KPIs, filters, and live charts on top of a dimensional model.
 
@@ -57,13 +57,14 @@ Batch pipeline processing 1M+ synthetic records with real data quality issues (d
 
 <!--   </td>
       </tr>
-</table> -->
+</table> 
 
 > 📌 More projects (data analysis, AI experiments) are available on my
 > [repositories page](https://github.com/khaoula-eng?tab=repositories) —
 > the three above are my current focus as a Data Engineer.
 
----
+
+-->
 
 ### 🛠️ Tech Stack
 
