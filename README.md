@@ -70,49 +70,76 @@ Batch pipeline processing 1M+ synthetic records with real data quality issues (d
 
 <div align="center">
 
-<!-- Programming, development and cloud tools -->
-
-<img src="https://skillicons.dev/icons?i=python,r,java,git,vscode,html,css,mysql,postgres,figma,azure,wordpress,arduino,ubuntu,django,laravel,pytorch,tensorflow" />
-
+<!-- Core tools -->
+<img src="https://skillicons.dev/icons?i=python,azure,docker,git,github,githubactions" />
 
 <br><br>
 
-<!-- Big Data tools -->
-
-<img src="https://img.shields.io/badge/Hadoop%20HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache%20HBase-DC382D?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" />
+<!-- Programming -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 
 <br><br>
 
-<!-- Data engineering concepts -->
-
-<img src="https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Warehouses-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Lakes-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<!-- Data Engineering -->
+<img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Modeling-336791?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Batch%20%26%20Real--Time%20Ingestion-5C4EE5?style=for-the-badge" />
 
 <br><br>
 
-<!-- Data and AI -->
+<!-- Big Data & Streaming -->
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop%20HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<br><br>
+
+<!-- Orchestration -->
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br><br>
+
+<!-- Cloud (Azure) -->
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/RBAC-005BA1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+<br><br>
+
+<!-- Data Governance & Lakehouse -->
+<img src="https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Medallion%20Architecture-B08D57?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Service%20Principals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Lakehouse%20Federation-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+
+<br><br>
+
+<!-- DevOps & IaC -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<br><br>
+
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+</div>
 
 ---
 
-<h3>🎓 Certifications</h3>
-
-<div align="left">
-
-- Machine Learning with Apache Spark — IBM
-- Python Project for Data Engineering — IBM
-- Data Analysis and Visualization with Power BI — Microsoft
-- The Power of Statistics — Google
-- Agile Project Management — Google
-- Prompt Engineering for Everyone — CodeSignal
 
 </div>
 
