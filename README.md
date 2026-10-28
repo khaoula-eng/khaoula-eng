@@ -4,12 +4,8 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E74B5&center=true&vCenter=true&width=600&lines=Junior+Data+Engineer;Azure+%7C+PySpark+%7C+ETL%2FELT+Pipelines;Turning+raw+data+into+reliable+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E74B5&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Khaoula+%F0%9F%91%8B;Junior+Data+Engineer;Building+reliable+pipelines;Turning+data+into+decisions;Medallion+Lakehouse+%7C+Unity+Catalog" alt="Typing SVG" />
 </a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="mailto:elhafdaouikhaoula7@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" /></a> <img src="https://img.shields.io/badge/Location-Morocco-informational?style=flat" />
-</p>
 
 </div>
 
@@ -17,9 +13,8 @@
 
 ### 👋 About me
 
-Junior Data Engineer with hands-on experience building end-to-end Big
-Data pipelines and deploying digital tools in industrial environments. Skilled in Python, SQL, PySpark, and the
-Azure data stack (Data Factory, Databricks, Synapse).
+I am a Data Engineer specializing in building scalable data platforms, Big Data pipelines, and cloud-based Lakehouse architectures. I help companies ingest, process, and model large volumes of data so they can rely on clean, well-governed datasets for analytics, reporting, and AI. My expertise covers the full data lifecycle, from ingestion and streaming to transformation, warehousing, and visualization.
+
 
 ---
 
@@ -68,86 +63,80 @@ Batch pipeline processing 1M+ synthetic records with real data quality issues (d
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python" alt="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas" alt="Pandas" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy" alt="NumPy" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" title="PySpark" alt="PySpark" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" title="SQL" alt="SQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data Engineering</b></td>
+    <td>
+      <sub><b>dbt</b> · ETL/ELT Pipelines · Data Modeling · Batch &amp; Real-Time Ingestion</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Big Data &amp; Streaming</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="45" title="Apache Spark" alt="Apache Spark" />&nbsp;
+      <img src="https://cdn.simpleicons.org/apachekafka/231F20/ffffff" width="45" title="Apache Kafka" alt="Apache Kafka" />&nbsp;
+      <img src="https://cdn.simpleicons.org/apachenifi" width="45" title="Apache NiFi" alt="Apache NiFi" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="45" title="Hadoop HDFS" alt="Hadoop" />&nbsp;
+      <img src="https://cdn.simpleicons.org/apachehive" width="45" title="Apache Hive" alt="Apache Hive" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Orchestration</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="45" title="Apache Airflow" alt="Apache Airflow" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredatafactory/azuredatafactory-original.svg" width="45" title="Azure Data Factory" alt="Azure Data Factory" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud (Azure)</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" title="Microsoft Azure" alt="Azure" />&nbsp;
+      <img src="https://cdn.simpleicons.org/databricks" width="45" title="Databricks" alt="Databricks" /><br>
+      <sub>ADLS Gen2 · Synapse Analytics · Key Vault · RBAC</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Governance &amp; Lakehouse</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/databricks" width="45" title="Unity Catalog" alt="Unity Catalog" />&nbsp;
+      <img src="https://cdn.simpleicons.org/snowflake" width="45" title="Lakehouse Federation (Snowflake)" alt="Snowflake" /><br>
+      <sub>Unity Catalog · Medallion Architecture · Service Principals · Lakehouse Federation</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DevOps &amp; IaC</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker" alt="Docker" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" title="GitHub Actions" alt="GitHub Actions" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" title="Terraform" alt="Terraform" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git" alt="Git" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Visualization</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" title="Streamlit" alt="Streamlit" /><br>
+      <sub><b>Power BI</b> · Streamlit</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- Core tools -->
-<img src="https://skillicons.dev/icons?i=python,azure,docker,git,github,githubactions" />
-
-<br><br>
-
-<!-- Programming -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-
-<br><br>
-
-<!-- Data Engineering -->
-<img src="https://img.shields.io/badge/ETL%2FELT%20Pipelines-4B8BBE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data%20Modeling-336791?style=for-the-badge" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Batch%20%26%20Real--Time%20Ingestion-5C4EE5?style=for-the-badge" />
-
-<br><br>
-
-<!-- Big Data & Streaming -->
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20NiFi-728E9B?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Hadoop%20HDFS-FFCC00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-
-<br><br>
-
-<!-- Orchestration -->
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-<br><br>
-
-<!-- Cloud (Azure) -->
-<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/RBAC-005BA1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-<br><br>
-
-<!-- Data Governance & Lakehouse -->
-<img src="https://img.shields.io/badge/Unity%20Catalog-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Medallion%20Architecture-B08D57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Service%20Principals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Lakehouse%20Federation-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-
-<br><br>
-
-<!-- DevOps & IaC -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br><br>
-
-<!-- Visualization -->
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-
-</div>
-
----
-
-
-</div>
 
 ---
 
 
 <div align="center">
 
-📫 Let's connect — <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/">LinkedIn</a> · <a href="mailto:elhafdaouikhaoula7@gmail.com">Email</a>
+If you need help building data pipelines, modernizing your data platform on Azure, or turning raw data into actionable dashboards, I would be happy to collaborate with you. — <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/">LinkedIn</a> · <a href="mailto:elhafdaouikhaoula7@gmail.com">Email</a>
 
 </div>
