@@ -15,52 +15,6 @@
 
 I am a Data Engineer specializing in building scalable data platforms, Big Data pipelines, and cloud-based Lakehouse architectures. I help companies ingest, process, and model large volumes of data so they can rely on clean, well-governed datasets for analytics, reporting, and AI. My expertise covers the full data lifecycle, from ingestion and streaming to transformation, warehousing, and visualization.
 
-
----
-
-<!--### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<h4>🏅 Tokyo Olympic Data Pipeline on Azure</h4>
-
-End-to-end Big Data pipeline on real Azure infrastructure: HTTP ingestion via Azure Data Factory, PySpark transformation on Databricks, data warehousing in Synapse Analytics, and dashboards in Power BI / Tableau.
-
-`Azure Data Factory` `Azure Storage (ADLS Gen2)` `Databricks` `Synapse Analytics` `Tableau`
-
-**[→ View repo](https://github.com/khaoula-eng/tokyo-olympic-data-azure-engineering-project)**
-
-</td>
-<td width="33%" valign="top">
-<h4>Industrial-IoT-Pipeline_Structured-Unstructured-Big-Data</h4>
-Batch pipeline processing 1M+ synthetic records with real data quality issues (duplicates, nulls, inconsistent formats), partitioned for performance at scale.
-
-`PySpark` `Delta Lake` `Data Quality` `Partitioning`
-
-**[→ View repo](https://github.com/khaoula-eng/Industrial-IoT-Pipeline_Structured-Unstructured-Big-Data)**
-
-  </td>
-<!--<td width="33%" valign="top">
-  <h4>📊 Data Warehouse & Dashboard</h4> 
-
- <!--  Star-schema data warehouse with an interactive Streamlit dashboard: KPIs, filters, and live charts on top of a dimensional model.
-
-  `SQL` `Star Schema` `Streamlit` `Plotly`
-
-<!--  **[→ View repo](https://github.com/khaoula-eng/project3-data-warehouse-dashboard)** · **[🔗 Live demo](#)** */ -->
-
-<!--   </td>
-      </tr>
-</table> 
-
-> 📌 More projects (data analysis, AI experiments) are available on my
-> [repositories page](https://github.com/khaoula-eng?tab=repositories) —
-> the three above are my current focus as a Data Engineer.
-
-
--->
-
 ### 🛠️ Tech Stack
 
 <table align="center">
