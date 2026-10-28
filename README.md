@@ -92,7 +92,7 @@ I am a Data Engineer specializing in building scalable data platforms, Big Data 
 | Project | Description | Stack |
 |---|---|---|
 | [Tokyo Olympic Data – Azure](https://github.com/khaoula-eng/tokyo-olympic-data-azure-engineering-project) | End-to-end Azure data engineering pipeline | Azure Data Factory · ADLS Gen2 · Databricks · Synapse |
-| [BI-Projects](https://github.com/khaoula-eng/Data-BI-Portfolio) | Collection of data & BI projects | Python · SQL · Power BI |
+| [Data-BI-Projects](https://github.com/khaoula-eng/Data-BI-Portfolio) | Collection of data & BI projects | Python · SQL · Power BI |
 | [AI-Projects](https://github.com/khaoula-eng/AI-Projects) | Machine learning & AI experiments | Python · Jupyter |
 ---
 
