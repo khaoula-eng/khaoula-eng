@@ -98,6 +98,6 @@ I am a Data Engineer specializing in building scalable data platforms, Big Data 
 
 <div align="center">
 
-If you need help building data pipelines, modernizing your data platform on Azure, or turning raw data into actionable dashboards, I would be happy to collaborate with you. — <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/">LinkedIn</a> · <a href="mailto:elhafdaouikhaoula7@gmail.com">Email</a>
+If you need help building data pipelines, modernizing your data platform on Azure or AWS, or turning raw data into actionable dashboards, I would be happy to collaborate with you. — <a href="https://www.linkedin.com/in/khaoulaelhafdaoui/">LinkedIn</a> · <a href="mailto:elhafdaouikhaoula7@gmail.com">Email</a>
 
 </div>
